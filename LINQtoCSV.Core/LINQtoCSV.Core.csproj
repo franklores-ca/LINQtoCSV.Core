@@ -3,11 +3,13 @@
 		<TargetFramework>netcoreapp2.1</TargetFramework>
 		<RootNamespace>LINQtoCSV</RootNamespace>
 		<LangVersion>latest</LangVersion>
-		<PackageId>LINQtoCSV</PackageId>
+		<PackageId>LINQtoCSV.Core</PackageId>
 		<Version>1.0.0</Version>
 		<Company>Matt Perdeck</Company>
 		<Authors>Matt Perdeck</Authors>
 		<Description>This is a port to .net core of Matt Perdeck's LINQtoCSV</Description>
 		<Copyright>Copyright © 2018</Copyright>
+		<PackageTags>linq, csv, .net, core</PackageTags>
+		<GeneratePackageOnBuild>false</GeneratePackageOnBuild>
 	</PropertyGroup>
 </Project>
