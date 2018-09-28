@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>netcoreapp2.1</TargetFramework>
+		<RootNamespace>LINQtoCSV</RootNamespace>
+		<LangVersion>latest</LangVersion>
+		<PackageId>LINQtoCSV</PackageId>
+		<Version>1.0.0</Version>
+		<Company>Matt Perdeck</Company>
+		<Authors>Matt Perdeck</Authors>
+		<Description>This is a port to .net core of Matt Perdeck's LINQtoCSV</Description>
+		<Copyright>Copyright © 2018</Copyright>
+	</PropertyGroup>
+</Project>
